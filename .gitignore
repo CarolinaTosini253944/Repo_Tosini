@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive (Windows)
+*.tmp
+~$*
+
+# VS Code (settings vary per machine)
+.vscode/
+
+# Excel / Office lock files
+~$*.xlsx
+~$*.docx
+~$*.pptx
